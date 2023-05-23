@@ -6,3 +6,4 @@ cd python-docs-samples/appengine/standard/hello_world
 
 3. Continue from Step 5 with 
 gcloud init
+4.gcloud app deploy
